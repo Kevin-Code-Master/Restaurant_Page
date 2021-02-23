@@ -1,0 +1,1 @@
+<!-- This is a standard Restaurant page made purely of JS -->
